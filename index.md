@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+<img src="https://avatars1.githubusercontent.com/u/73906549?s=400&u=e780c0514cd3792f34c6bc692ccde08856ee805c&v=4" />
+### About Me
+my name is marzieh I study IT engineering At Payame Noor University, parand-Robatkarim.
+### phon number
+09377655839
 
-You can use the [editor on GitHub](https://github.com/marziebakhtiari/marzie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Personal information
+First name : Marzieh 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Last name : Bakhtiari
 
-### Markdown
+Birth Day : farvardin 1364
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Languages
+Persian
 
-```markdown
-Syntax highlighted code block
+English(Intermediate)
 
-# Header 1
-## Header 2
-### Header 3
+### Skills
+ + ICDL courses
+ + C++ Programming
 
-- Bulleted
-- List
+### Work Experience
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+University projects designing and implementation.
 
-[Link](url) and ![Image](src)
-```
+### Certifications
+ICDL certificate
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Piano certificate
 
-### Jekyll Themes
+C++ university certificat
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marziebakhtiari/marzie/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+SQL Server certificate.
 
-### Support or Contact
+### Contact Me
+- Gmail: mozhgan2016@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### درباره من
+من مرضیه هستم 
+من در دانشگاه پیام نور واحد پرند رباط کریم ْ در رشته مهندسی کامپیوتر تحصیل می کنم
+
+### شماره تماس 
+09377655839
+
+### اطلاعات شخصی
+نام: مرضیه
+
+نام خانوادگی : بختیاری
+
+تولد: فروردین 1364
+
+### زبان
+فارسی
+
+(انگلیسی  (متوسط
+
+### مهارت ها
+
+ ICDL مهارت های 
+
+C++ زبان برنامه نویسی
+
+SQL برنامه نویسی به زبان
+
+### سوابق کاری
+فعالیت در انجمن فضای تولید و تبادل اطلاعات (افتا)
+فعالیت در انجمن شرکتهای نرم افزاری 
+عضو هیات مدیره سایت تخصصی فرصت های شغلی حوزه فناوری اطلاعات و ارتباطات www.IranITjob.com
+
+### گواهی مهارت 
+
+ICDL گواهی پایان دوره
+
+ در دانشگاه SQL Server،C++ گذراندن دوره های برنامه نویسی
