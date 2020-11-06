@@ -21,21 +21,17 @@ English(Intermediate)
  + C++ Programming
 
 ### Work Experience
-
-
-University projects designing and implementation.
+Activity in the Association of Production Space and Information Exchange (EFTA)
+Activity in the Association of Software Companies
+Member of the board of the specialized site of job opportunities in the field of information and communication technology www.IranITjob.com
 
 ### Certifications
 ICDL certificate
-
-Piano certificate
-
 C++ university certificat
-
 SQL Server certificate.
 
 ### Contact Me
-- Gmail: mozhgan2016@gmail.com
+- Gmail: marziebakhtiari8@gmail.com
 
 
 ### درباره من
